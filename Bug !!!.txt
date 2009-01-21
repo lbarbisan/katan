@@ -1,0 +1,8 @@
+
+- Condition de victoire
+- Bug d'affichage du texte !!!
+- Bug de positionnement ses maisons
+- Refaire les dessins
+- Image d'interdiction de poser des maisons et des routes
+- gestion du clavier
+- Optimiser
